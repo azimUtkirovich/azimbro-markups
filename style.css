@@ -4,6 +4,12 @@
     --light: #f8fafc;
 }
 
+a {
+    color: inherit;
+    list-style: none;
+    text-decoration: none;
+}
+
 body {
     font-family: system-ui, sans-serif;
     line-height: 1.6;
